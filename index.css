@@ -5,6 +5,7 @@
 	font-size: 2em;
 }
 
-#heading {
+h1 {
+	margin: auto;
 	text-allign: center;
 }
